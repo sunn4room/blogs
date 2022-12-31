@@ -4,6 +4,9 @@ module.exports = {
 	markdown: {
 		lineNumbers: true
 	},
+	themeConfig: {
+		sidebar: "auto"
+	},
 	plugins: [
 		"@vuepress/search",
 		"@vuepress/back-to-top",
