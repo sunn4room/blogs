@@ -12,5 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^1.9.7"
+    "@vuepress/plugin-nprogress": "^1.9.7"
+    "@vuepress/plugin-search": "^1.9.7"
   }
 }
