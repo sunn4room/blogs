@@ -5,11 +5,11 @@ module.exports = {
 		lineNumbers: true
 	},
 	themeConfig: {
+		logo: '/assets/img/logo.png',
 		sidebar: "auto"
 	},
 	plugins: [
 		"@vuepress/search",
-		"@vuepress/back-to-top",
-		"@vuepress/nprogress"
+		"@vuepress/back-to-top"
 	]
 }
