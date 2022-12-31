@@ -2,10 +2,10 @@ module.exports = {
 	title: "sunn4room's blogs",
 	description: "Welcome to my blogs",
 	markdown: {
-	  lineNumbers: true
+		lineNumbers: true
 	},
 	plugins: [
-	  "@vuepress/plugin-search",
-	  "@vuepress/plugin-nprogress"
+		"@vuepress/search",
+		"@vuepress/nprogress"
 	]
 }
