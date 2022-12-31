@@ -6,6 +6,7 @@ module.exports = {
 	},
 	plugins: [
 		"@vuepress/search",
+		"@vuepress/back-to-top",
 		"@vuepress/nprogress"
 	]
 }
