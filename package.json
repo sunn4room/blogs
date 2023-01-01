@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-		"docs:dev": "vuepress dev docs",
+    "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "markdown-it-plantuml": "^1.4.1",
     "vuepress": "^1.9.7"
   }
 }

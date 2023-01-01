@@ -5,7 +5,10 @@ module.exports = {
 		['link', { rel: 'icon', href: '/logo.png' }]
 	],
 	markdown: {
-		lineNumbers: true
+		lineNumbers: true,
+		plugins: [
+			'plantuml'
+		]
 	},
 	themeConfig: {
 		sidebar: "auto"
