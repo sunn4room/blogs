@@ -5,7 +5,6 @@ module.exports = {
 		lineNumbers: true
 	},
 	themeConfig: {
-		logo: '/assets/img/logo.png',
 		sidebar: "auto"
 	},
 	plugins: [

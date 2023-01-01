@@ -1,7 +1,4 @@
 ---
 home: true
+heroImage: /hero.png
 ---
-
-# Welcome
-
-Welcome to sunn4room's blogs !
