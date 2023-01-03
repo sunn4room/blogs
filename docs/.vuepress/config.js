@@ -7,7 +7,8 @@ module.exports = {
 	markdown: {
 		lineNumbers: true,
 		plugins: [
-			'plantuml'
+			'plantuml',
+			'task-lists'
 		]
 	},
 	themeConfig: {
